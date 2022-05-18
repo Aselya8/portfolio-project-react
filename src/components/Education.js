@@ -5,7 +5,7 @@ const Education = () => {
     return (
         <div id="education" className="education">
             <div className="d-flex justify-content-center my-5">
-                <h1>education & experience</h1>
+                <h1>experience & education</h1>
             </div>
             <div className="container education-wrapper">
                 <div className="timeline-block timeline-block-right">
@@ -13,7 +13,7 @@ const Education = () => {
                     <div className="timeline-content">
                     <h3>KyrgyzTelecom/Bishkek</h3>
                     <p>
-                    <br />Organized information for use by team members in data analytics, reports and presentations.<br /> - Computer programmer 
+                    <br />Working with the technicians and managers to troubleshoot outages and resolve network-related issues.<br /> - Computer programmer 
                     </p>
                     </div>
                 </div>
@@ -46,8 +46,8 @@ const Education = () => {
                 <div className="timeline-block timeline-block-left">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                    <h3>Los Medanos College/Pittsburg,CA</h3>
-                    <p> - Computer Science
+                    <h3>Diablo Valley College/Pleasant Hill,CA</h3>
+                    <p> - Computer Information Systems
                     <br /> - In progress
                     </p>
                     </div>
