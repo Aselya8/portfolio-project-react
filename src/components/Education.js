@@ -23,8 +23,8 @@ const Education = () => {
                     <div className="timeline-content">
                     <h3>International University of Kyrgyzstan</h3>
                     <p>
-                    <br /> Information Technology.
-                    <br /> - Bachelor Degree Diploma
+                    <br /> Communication Systems and Networks
+                    <br /> - Bachelor of Computer Science
                     <br /> 
                     </p>
                     
